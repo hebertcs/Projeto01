@@ -23,21 +23,21 @@ form button {
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
-    color: #ecf0f1;
+    background-color: #3e424d;
+    color: #bb1a1a;
 
 }
 
 header nav li {
     display: inline;
     margin-left: 16px;
-    color: #ecf0f1;
+    color: #f1ecec;
     font-size: 18px;
 }
 
 header nav li a{
    
-    color: #ecf0f1;
+    color: #b81a1a;
     text-decoration: none ;
 }
 
@@ -78,14 +78,14 @@ section h2 {
 }
 
 section {
-    color: #182c61;
+    color: #0e0d0d;
 }
 
 section p {
     margin-bottom: 8px ;
 }
 
-.store-front {
+.gost-capa {
     margin-right: 32px;
 }
 
@@ -130,22 +130,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #3e424d;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #2d4588;
+    background-color: #cc2a2a;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61 ;
+    outline-color: #3e424d ;
 }
 
 footer {
-    background-color: #182c61;
-    color: #ecf0f1;
+    background-color: #3e424d;
+    color: #e70e0e;
     padding: 16px 0;
 }
